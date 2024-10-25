@@ -22,4 +22,3 @@ echo "<div class=\"iblock\"><center>This Page visted: " . $total_hits . " Times<
     
     
 ?>
-
