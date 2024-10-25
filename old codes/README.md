@@ -1,8 +1,7 @@
 # PHP User Counter
 
-An easy-to-use PHP counter that requires **NO SQL database** and is safe from ad blockers' anti-tracking measures.
-
-This is a classic method for tracking user visits, often seen in mobile FTP scripts like **cm79ftp**.
+This is an easy-to-use PHP counter that requires NO SQL database or External Scripts, and it was safe from ad blockers' anti-tracking measures. 
+it's a classic method for tracking user visits, often seen in MobileFTP/WapFTP scripts like **cm79ftp**.
 
 ## How to Use
 
